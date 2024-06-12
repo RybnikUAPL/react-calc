@@ -1,6 +1,7 @@
 {
   "name": "react-calc",
   "version": "0.1.0",
+  "homepage": "https://rybnikuapl.github.io/react-calc/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
